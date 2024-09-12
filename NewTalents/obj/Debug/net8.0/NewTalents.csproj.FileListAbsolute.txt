@@ -1,0 +1,14 @@
+D:\Temp\Curso\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.exe
+D:\Temp\Curso\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+D:\Temp\Curso\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+D:\Temp\Curso\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.dll
+D:\Temp\Curso\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.dll
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+D:\Temp\Curso\NewTalents\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
